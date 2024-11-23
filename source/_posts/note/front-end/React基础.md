@@ -1,6 +1,6 @@
 ---
 title: React基础概念与组件详解
-link: frontend-node-React-1
+link: front-end-note-React-1
 catalog: true
 lang: cn
 tags:
