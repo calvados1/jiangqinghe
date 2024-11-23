@@ -69,6 +69,8 @@ default_category: uncategorized
 category_map:
   随笔: life
 
+  测试: test
+
   笔试面经: review
   笔试复盘: exam-record
   面经: interview
