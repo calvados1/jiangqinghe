@@ -27,6 +27,7 @@ const QueryPage = () => {
   // 这是一个函数组件
   // 使用箭头函数语法
   return (
+      <div></div>
     // 返回JSX代码
   );
 };
