@@ -8,7 +8,7 @@ tags:
   - CentOS
 categories:
   - [笔记,服务器]
-date: 2024-10-29 09:34:30
+date: 2024-11-25 09:34:30
 ---
 # CentOS更新网站证书
 
